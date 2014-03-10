@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>paihangbang</key>
+	<string>排行榜</string>
+	<key>goumai</key>
+	<string>购买</string>
+	<key>blueblade</key>
+	<string>增加3点攻击力,可无限购买</string>
+	<key>redblade</key>
+	<string>大幅度增加10点攻击力</string>
+	<key>colorfulblade</key>
+	<string>大幅度增加20点攻击力</string>
+	<key>fashe</key>
+	<string>点击屏幕发射子弹</string>
+</dict>
+</plist>

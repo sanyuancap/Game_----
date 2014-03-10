@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>paihangbang</key>
+	<string>Rank</string>
+	<key>goumai</key>
+	<string>Buy</string>
+	<key>blueblade</key>
+	<string>Add 3 attack power</string>
+	<key>redblade</key>
+	<string>Add 10 attack power</string>
+	<key>colorfulblade</key>
+	<string>Add 20 attack power</string>
+	<key>fashe</key>
+	<string>Click the screen shot</string>
+</dict>
+</plist>
